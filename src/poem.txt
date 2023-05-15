@@ -1,0 +1,6 @@
+In this article, we covered the basics of file operation using the Rust programming language.
+In addition, we illustrated various methods and techniques used to read files.
+We hope you found this ARTICLE helpful. Check the other Linux Hint articles for more tips and information.
+hello
+world
+hello again
